@@ -3654,8 +3654,8 @@ https://www.transifex.com/projects/p/waggox/</translation>
         <translation>Aviso: Por favor verifique que a data e a hora do computador está correcta! Se o relógio estiver errado o Waggox Core não vai funcionar correctamente.</translation>
     </message>
     <message>
-        <source>(44444 could be used only on mainnet)</source>
-        <translation>(44444 apenas pode ser usado para mainnet)</translation>
+        <source>(8282 could be used only on mainnet)</source>
+        <translation>(8282 apenas pode ser usado para mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4064,8 +4064,8 @@ https://www.transifex.com/projects/p/waggox/</translation>
         <translation>masternodeprivkey inválida. Por favor reveja a documentação.</translation>
     </message>
     <message>
-        <source>(must be 44444 for mainnet)</source>
-        <translation>(deve ser 44444 para mainnet)</translation>
+        <source>(must be 8282 for mainnet)</source>
+        <translation>(deve ser 8282 para mainnet)</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>
