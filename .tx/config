@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[waggox.qt-translation-010]
+file_filter = src/qt/locale/waggox_<lang>.ts
+source_file = src/qt/locale/waggox_en.ts
+source_lang = en
